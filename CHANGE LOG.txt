@@ -1,0 +1,167 @@
+#CHANGE LOG 1.12.0 11_27_19
+-update doctors list and schedules
+-update sitemap
+
+#CHANGE LOG 1.11.3 11_04_19
+-Hide Contact # Room in Doctors List
+-Modify Pop up Subscribe in mailchimp
+
+#CHANGE LOG 1.11.2 10_28_19
+-Change Specialization to Specialty in doctors list
+
+#CHANGE LOG 1.11.1 10_21_19
+-Add doctors in sitemap
+-Little changes for modal search
+
+#CHANGE LOG 1.11.0 10_10_19
+-Update Medical Team controller
+-Redirect to sitemap if url failed to navigate
+-Add new content in press release and internal medicine
+
+#CHANGE LOG 1.10.0 08_08_19
+-Add messenger plugin
+-Optimize js and css
+
+#CHANGE LOG 1.9.0 07_11_19
+-Sitemap saved in database
+-Publish Healthful
+-add cebudoc in all titles for seo
+-separate navbar in header file
+-modify navbar in cebudoc
+-remove old search module together with the segment files and xml files
+
+#CHANGE LOG 1.8.0 05_29_19
+-Add new press release Hyperbaric Chamber
+
+#CHANGE LOG 1.7.6 05_10_19
+-Add keywords to press release
+-enhance URL for press release
+-add sub specialty in search of doctors
+
+#CHANGE LOG 1.7.5 05_06_19
+-Add new press releases
+-Update press release pagination
+
+#CHANGE LOG 1.7.4 04_16_19
+-Modify image size in press releases
+-add new press release Dental Institute
+
+#CHANGE LOG 1.7.3 04_15_19
+-change contacts in footer to text
+-minor changes for doctors details
+
+#CHANGE LOG 1.7.2 04_01_19
+-remove image background in testimonials homepage
+-resize testimonials thubmnail width to 350px
+-optimize images for faster loading
+
+#CHANGE LOG 1.7.1 03_21_19
+-add press release pagination limit 5
+-page will display after page is fully loaded
+-remove local 739 in footer
+-adjust opacity in article gallery from 0.7 to 0.3
+
+#CHANGE LOG 1.7.0 03_11_19
+-add new press release
+-update mactandoc contact number
+
+#CHANGE LOG 1.6.1 03_04_19
+-add hospitals contact info in footer
+-remove google map in footer
+-change accreditation in home page from carousel to standby image
+
+#CHANGE LOG 1.6.0 03_04_19
+-add subscribe page
+-integrate mailchimp to website for newsletter
+
+#CHANGE LOG 1.5.1 03_01_19
+-change underline color in tabs from red to blue
+-add slide carousel to accreditation in homepage
+
+#CHANGE LOG 1.5.0 02_26_19
+-add 2 press releases
+-add published date in press releases
+-update sitemap
+
+#CHANGE LOG 1.4.1 02_06_19
+-add email and contact to NGH careers
+-add new hiring for NGH admnistrative and healthful
+-custom design for NGH careers
+-update careers tabs
+-change banner font style from Rubik to US101
+-add word spacing and letters spacing in display-1 classes
+
+#CHANGE LOG 1.4.0 01_16_19
+-update overview contents
+-add contents to the member hospitals pages
+-add accreditations and awards
+-add FAQ content
+-update descriptions for SEO
+-add script for search sitemap to all controllers
+-add sitemap links in xml
+-change loader minimal to flash
+-add patient guide page
+-update out-patient department content
+-change CDN jquery from slim js to google CDN
+-minor changes for ecu page
+
+#CHANGE LOG 1.3.6 12_17_18
+-transfer social media icons from navbar to footer
+-add new tab healthful
+-update google map api in footer
+-new job hiring for administrative & healthcare
+-add loader
+
+#CHANGE LOG 1.3.5 12/05/18
+-add new press release
+-add logo for rapid ssl in footer
+-add folder for press releases images
+
+#CHANGE LOG 1.3.4 11/27/18
+-add facility page
+-special centers finished
+-add pharmacy page
+-change default tabs design
+-replace new & current events to press release in home page
+-slider in home page slides according to hopitals date created
+
+#CHANGE LOG 1.3.3 11/26/18
+-css auto generate class renamed
+-logo for home slider updated and not blured
+-table of press release update auto generate class
+
+#CHANGE LOG 1.3.2 11/22/18
+-add functions to under construction page to track users navigation
+-rename controller Services to Patient Services
+
+#CHANGE LOG 1.3.1 11/15/18
+-add google analytics
+-pending modules for open graph
+-change mobile view navigation from center to left
+
+#CHANGE LOG 1.3.0 11/08/18
+-add press releases page
+-add table in database press_release
+-published
+
+#CHANGE LOG 1.2.0 11/07/18
+-add pages for laboratory & nuclear med
+-add bottom and left border for navigation bar
+-add loading bar
+
+#CHANGE LOG 1.1.1 10/26/18
+-add pages for center for women, wound, invasive, sight & cancer
+-add minimal loading bar
+
+#CHANGE LOG 1.1.0 10/24/18
+-detailed url navigation set segmet(3) in uri
+-modify services controller
+-modify about controller
+-change footer copyright to Cebudoc Group
+-add center for cancer page
+
+#CHANGE LOG 1.0.0 10/23/18
+-remove redudant css code
+-remove unnecessary tables in database
+-add CDN bootstrap
+-modify and add background to testimonials
